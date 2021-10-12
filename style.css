@@ -30,4 +30,10 @@ body {
 body>* {
     background-color: antiquewhite;
     width: 80%;
+    margin: 5px;
+    padding: 5px;
+    border-color: rebeccapurple;
+    border-width: 2px;
+    border-style: dashed;
+    border-radius: 10px;
 }
