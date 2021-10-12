@@ -26,3 +26,8 @@ input[type="submit"] {
 body {
     background-image: url(https://i.pinimg.com/originals/bc/ff/4b/bcff4b224eaf8eb9c464f9435b4e9ef4.jpg);
 }
+
+body>* {
+    background-color: antiquewhite;
+    width: 80%;
+}
